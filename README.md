@@ -11,6 +11,18 @@ e de Computação da Universidade Federal de Goiás.
 
 Passo 0 (caso não possui instalado no seu linux os programas autotools, instale-os e construa-os):
 
+$ wget https://ftp.gnu.org/gnu/autoconf/autoconf-2.69.tar.gz
+
+$ tar -xzvf autoconf-2.69.tar.gz
+
+$ cd autoconf-2.69
+
+$ ./configure
+
+$ make
+
+$ sudo make install
+
 $ wget https://ftp.gnu.org/gnu/automake/automake-1.15.tar.gz
 
 $ tar -xzvf automake-1.15.tar.gz
