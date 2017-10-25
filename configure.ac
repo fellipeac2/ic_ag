@@ -13,7 +13,7 @@ AC_CONFIG_MACRO_DIR([m4])
 # ----------------------------------------------------
 
 #AM_INIT_AUTOMAKE#([gnu check-news])
-AM_INIT_AUTOMAKE([gnu])
+AM_INIT_AUTOMAKE
 #AM_CONFIG_HEADERS([config.h])
 AC_LANG([C++])
 
