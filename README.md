@@ -9,6 +9,14 @@ e de Computação da Universidade Federal de Goiás.
 
 #Instalação
 
+Passo 0 (caso não possui instalado no seu linux os programas autotools, instale-os e construa-os):
+$ wget https://ftp.gnu.org/gnu/automake/automake-1.15.tar.gz
+$ tar -xzvf automake-1.15.tar.gz
+$ cd automake-1.15
+$ ./configure
+$ make
+$ sudo make install
+
 1º Passo (clona esse repositório git):
 
 $ git clone https://github.com/fellipeac2/ic_ag.git
