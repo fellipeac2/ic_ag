@@ -43,4 +43,3 @@ Makefile
 /cmake-build-debug
 src/main
 src/sample_ag
-a
